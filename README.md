@@ -5,5 +5,11 @@ I am a beginner Java programmer. I am interested in creating applications that w
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/magdalenakiewralemanska)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MagdalenaKiewra-Lemańska/)  
 
+I'm working on my first backend projects combined with frontend using Java, React and Angular.
+
+Taking into account my previous education and experience, I feel best in backend applications using Java, including the Spring framework.
+
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='github' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) 
+[<img src='https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667' alt='github' height='40'>](https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakiewralemanska)](https://github.com/anuraghazra/github-readme-stats)
 
