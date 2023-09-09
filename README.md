@@ -26,7 +26,8 @@ Expanding my previous experience, I have also started learning programming in fr
 My favorite technology stack used in my work includes:
 
 [<img src='https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png' alt='IntelliJ' height='40'>](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png) 
-[<img src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png' alt='IntelliJ' height='40'>](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png) 
-
+[<img src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png' alt='VSC' height='40'>](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png) 
+[<img src='https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667' alt='Postman' height='40'>](https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667) 
+[<img src='https://brackets.io/img/brackets.svg' alt='IntelliJ' height='40'>](https://brackets.io/img/brackets.svg) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakiewralemanska)](https://github.com/anuraghazra/github-readme-stats)
 
