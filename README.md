@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Magda!
-I am a beginner Java programmer. I am interested in creating applications that will make people's lives easier, respond to their everyday needs, but will also help them fill their free time and relax. Currently, I mainly work on small web applications. In the future, however, I would also like to expand my knowledge in creating computer games and mobile applications. Below are some sample applications that I have worked on so far. If you are interested in working with me, would like to share your experiences or create a joint project, let me know on my  "[<img src='https://camo.githubusercontent.com/09b81c6eafb17bb6b067e393015ac666e6ff6ef844261aa13469218127358656/68747470733a2f2f636f6e74656e742e6c696e6b6564696e2e636f6d2f636f6e74656e742f64616d2f6d652f627573696e6573732f656e2d75732f616d702f6272616e642d736974652f76322f62672f4c492d4c6f676f2e7376672e6f726967696e616c2e737667' alt='github' height='20'>](https://www.linkedin.com/in/magdalena-kiewra-lema%C5%84ska/)"
+I am a beginner Java programmer. I am interested in creating applications that will make people's lives easier, respond to their everyday needs, but will also help them fill their free time and relax. Currently, I mainly work on small web applications. In the future, however, I would also like to expand my knowledge in creating computer games and mobile applications. Below are some sample applications that I have worked on so far. If you are interested in working with me, would like to share your experiences or create a joint project, let me know on my 
+[<img src='https://camo.githubusercontent.com/09b81c6eafb17bb6b067e393015ac666e6ff6ef844261aa13469218127358656/68747470733a2f2f636f6e74656e742e6c696e6b6564696e2e636f6d2f636f6e74656e742f64616d2f6d652f627573696e6573732f656e2d75732f616d702f6272616e642d736974652f76322f62672f4c492d4c6f676f2e7376672e6f726967696e616c2e737667' alt='github' height='20'>](https://www.linkedin.com/in/magdalena-kiewra-lema%C5%84ska/)
 
 Taking into account my previous education and experience, I feel best in backend applications using Java, including the Spring framework and using relational databases.
 
@@ -18,7 +19,7 @@ Expanding my previous experience, I have also started learning programming in fr
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='JavaScript' height='40'>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' alt='Angular' height='40'>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) 
 
-My favorite technology stack used in work includes:
+My favorite applications used in work includes:
 
 [<img src='https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png' alt='IntelliJ' height='40'>](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png) 
 [<img src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png' alt='VSC' height='40'>](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png) 
