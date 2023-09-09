@@ -18,6 +18,6 @@ Expanding my previous experience, I have recently also started learning programm
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='TypeScript' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg' alt='JavaScript' height='40'>](https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg) 
+[<img src='https://https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='JavaScript' height='40'>](https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakiewralemanska)](https://github.com/anuraghazra/github-readme-stats)
 
