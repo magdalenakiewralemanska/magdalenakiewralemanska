@@ -21,8 +21,8 @@ Expanding my previous experience, I have also started learning programming in fr
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' alt='Angular' height='40'>](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) 
 
 My favorite technology stack used in my work includes:
-[<img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9c%2FIntelliJ_IDEA_Icon.svg%2F800px-IntelliJ_IDEA_Icon.svg.png&tbnid=qK0BQUdDdEub5M&vet=12ahUKEwjWn8jIhp6BAxVIIxAIHQCCDiEQMygEegQIARBb..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntelliJ_IDEA_Icon.svg&docid=t-iHerCgsjEzAM&w=800&h=800&q=IntelliJ%20Idea%20icon%20SVG&ved=2ahUKEwjWn8jIhp6BAxVIIxAIHQCCDiEQMygEegQIARBb' alt='Angular' height='40'>](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9c%2FIntelliJ_IDEA_Icon.svg%2F800px-IntelliJ_IDEA_Icon.svg.png&tbnid=qK0BQUdDdEub5M&vet=12ahUKEwjWn8jIhp6BAxVIIxAIHQCCDiEQMygEegQIARBb..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntelliJ_IDEA_Icon.svg&docid=t-iHerCgsjEzAM&w=800&h=800&q=IntelliJ%20Idea%20icon%20SVG&ved=2ahUKEwjWn8jIhp6BAxVIIxAIHQCCDiEQMygEegQIARBb) 
+[<img src='https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png' alt='IntelliJ' height='40'>](https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png) 
+[<img src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png' alt='IntelliJ' height='40'>](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png) 
 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakiewralemanska)](https://github.com/anuraghazra/github-readme-stats)
 
