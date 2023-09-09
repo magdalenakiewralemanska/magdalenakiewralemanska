@@ -7,9 +7,17 @@ I am a beginner Java programmer. I am interested in creating applications that w
 
 I'm working on my first backend projects combined with frontend using Java, React and Angular.
 
-Taking into account my previous education and experience, I feel best in backend applications using Java, including the Spring framework.
+Taking into account my previous education and experience, I feel best in backend applications using Java, including the Spring framework and using relational databases.
 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='github' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) 
-[<img src='https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667' alt='github' height='40'>](https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667) 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) 
+[<img src='https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667' alt='Spring' height='40'>](https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667) 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt='MySQL' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) 
+
+Expanding my previous experience, I have recently also started learning programming in front-end technologies such as React and Angular.
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='React' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' alt='TypeScript' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='HTML5' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='CSS3' height='40'>](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) 
+[<img src='https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg' alt='JavaScript' height='40'>](https://raw.githubusercontent.com/devicons/devicon/icons/javascript/javascript-original.svg) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenakiewralemanska)](https://github.com/anuraghazra/github-readme-stats)
 
